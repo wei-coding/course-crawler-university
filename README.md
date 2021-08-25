@@ -3,4 +3,6 @@ Course-crawler
 [中文說明](README-zh.md)
 
 ## Schools
-- [MCU](../../tree/mcu)
+| Name  | Second Header | Links
+| ------------- | ------------- |
+| Ming Chuan University  | MCU  | [course](../../tree/mcu)
