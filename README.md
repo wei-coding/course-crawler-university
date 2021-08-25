@@ -1,4 +1,4 @@
 Course-crawler
 ================
 
-- [mcu](../mcu/README.md)
+- [mcu](../../tree/mcu)
