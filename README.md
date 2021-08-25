@@ -4,5 +4,5 @@ Course-crawler
 
 ## Schools
 | Name  | Second Header | Links
-| ------------- | ------------- |
+| ------------- | ------------- | ------------- |
 | Ming Chuan University  | MCU  | [course](../../tree/mcu)
